@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gami02.newenglandepi.com/sitemap.xml
